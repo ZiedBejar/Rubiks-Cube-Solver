@@ -28,5 +28,5 @@ The code utilizes the following technologies:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepositoryname.git
-   cd yourrepositoryname
+   git clone https://github.com/ZiedBejar/Rubiks-Cube-Solver.git
+   
