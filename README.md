@@ -1,6 +1,6 @@
 # Rubik's Cube Color Recognition and Solver Application
 
-### Overview
+## Overview
 This application provides a graphical interface for capturing and processing images of a Rubik's Cube, identifying each face's colors, and solving the cube using the Kociemba algorithm. The solution is displayed graphically, allowing users to visualize and understand the Rubik's Cube state and its solution steps.
 
 The code utilizes the following technologies:
